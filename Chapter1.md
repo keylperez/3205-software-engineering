@@ -25,10 +25,12 @@
 
 ### FAQ's
 
-| What is a software | Computer programs & associated documentation; May be developed for a customer or market |
-| Attributes of good software? | should deliver the required functionality & performance |
-| What is software Engineering | descipline concerned with all aspecs of software production |
-| Fundamental software engineering activities ? | Software Specification<br>Software developement<br>Software Validation<br>Software Evolution |
+| Question                                                            | Answer                                                                                                                        |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| What is a software                                                  | Computer programs & associated documentation; May be developed for a customer or market                                       |
+| Attributes of good software?                                        | should deliver the required functionality & performance                                                                       |
+| What is software Engineering                                        | descipline concerned with all aspecs of software production                                                                   |
+| Fundamental software engineering activities ?                       | Software Specification<br>Software developement<br>Software Validation<br>Software Evolution                                  |
 | What is the difference with Software Engineering & Computer Science | Computer Science: Theory and Fundamentals<br>Software Engineering: Practicalitites of developing & delivering useful software |
 
 ### Essential Attributes of good software
